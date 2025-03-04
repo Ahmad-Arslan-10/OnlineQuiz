@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "flag": "🇬🇧",
+      "question": "This flag represents which country?",
+      "options": ["Canada", "United States", "United Kingdom", "Jamaica"],
+      "correctAnswer": "United Kingdom"
+    },
+    {
+      "id": 2,
+      "flag": "🇵🇰",
+      "question": "This flag represents which country?",
+      "options": ["China", "India", "Japan", "Pakistan"],
+      "correctAnswer": "Pakistan"
+    },
+    {
+      "id": 3,
+      "flag": "🇦🇷",
+      "question": "This flag represents which country?",
+      "options": ["Argentina", "Brazil", "Portugal", "France"],
+      "correctAnswer": "Argentina"
+    },
+    {
+      "id": 4,
+      "flag": "🇨🇦",
+      "question": "This flag represents which country?",
+      "options": ["Germany", "Italy", "Canada", "America"],
+      "correctAnswer": "Canada"
+    },
+    {
+      "id": 5,
+      "flag": "🇰🇷",
+      "question": "This flag represents which country?",
+      "options": ["South Korea", "Kenya", "Japan", "Srilanka"],
+      "correctAnswer": "South Korea"
+    },
+    {
+      "id": 6,
+      "flag": "🇫🇷",
+      "question": "This flag represents which country?",
+      "options": ["France", "Italy", "Spain", "Germany"],
+      "correctAnswer": "France"
+    },
+    {
+      "id": 7,
+      "flag": "🇯🇵",
+      "question": "This flag represents which country?",
+      "options": ["Japan", "China", "South Korea", "Thailand"],
+      "correctAnswer": "Japan"
+    },
+    {
+      "id": 8,
+      "flag": "🇧🇷",
+      "question": "This flag represents which country?",
+      "options": ["Brazil", "Argentina", "Chile", "Peru"],
+      "correctAnswer": "Brazil"
+    },
+    {
+      "id": 9,
+      "flag": "🇮🇳",
+      "question": "This flag represents which country?",
+      "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+      "correctAnswer": "India"
+    },
+    {
+      "id": 10,
+      "flag": "🇦🇺",
+      "question": "This flag represents which country?",
+      "options": ["Australia", "New Zealand", "Fiji", "Samoa"],
+      "correctAnswer": "Australia"
+    },
+    {
+      "id": 11,
+      "flag": "🇳🇿",
+      "question": "This flag represents which country?",
+      "options": ["New Zealand", "Australia", "Fiji", "Papua New Guinea"],
+      "correctAnswer": "New Zealand"
+    },
+    {
+      "id": 12,
+      "flag": "🇪🇸",
+      "question": "This flag represents which country?",
+      "options": ["Spain", "Portugal", "Italy", "France"],
+      "correctAnswer": "Spain"
+    },
+    {
+      "id": 13,
+      "flag": "🇮🇹",
+      "question": "This flag represents which country?",
+      "options": ["Italy", "Greece", "Spain", "Turkey"],
+      "correctAnswer": "Italy"
+    },
+    {
+      "id": 14,
+      "flag": "🇷🇺",
+      "question": "This flag represents which country?",
+      "options": ["Russia", "Ukraine", "Belarus", "Poland"],
+      "correctAnswer": "Russia"
+    },
+    {
+      "id": 15,
+      "flag": "🇿🇦",
+      "question": "This flag represents which country?",
+      "options": ["South Africa", "Nigeria", "Kenya", "Egypt"],
+      "correctAnswer": "South Africa"
+    }
+  ]
+}
